@@ -1,0 +1,32 @@
+{
+  "settlement": {
+    "name": "WeaversFen",
+    "tier": "village",
+    "upgrades": 7
+  },
+  "encounter": null,
+  "governedBy": "Batcave",
+  "controledBy": "Syndicate",
+  "crafting": {
+    "crafting": [
+      2,
+      4,
+      3,
+      2,
+      2
+    ],
+    "refining": [
+      5,
+      4,
+      4,
+      3,
+      3
+    ],
+    "taxes": [
+      "2.00",
+      "5.60",
+      "140",
+      "1.40"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "settlement": {
+    "name": "RestlessShore",
+    "tier": "hamlet",
+    "upgrades": 4
+  },
+  "encounter": null,
+  "governedBy": null,
+  "controledBy": null,
+  "crafting": {
+    "crafting": [
+      2,
+      2,
+      2,
+      3,
+      3
+    ],
+    "refining": [
+      3,
+      5,
+      5,
+      4,
+      3
+    ],
+    "taxes": [
+      "2.00",
+      "4.50",
+      "0.99",
+      "0.99"
+    ]
+  }
+}

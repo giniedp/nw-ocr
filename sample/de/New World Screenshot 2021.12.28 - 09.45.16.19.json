@@ -1,0 +1,32 @@
+{
+  "settlement": {
+    "name": null,
+    "tier": null,
+    "upgrades": null
+  },
+  "encounter": null,
+  "governedBy": null,
+  "controledBy": "Das Syndikat",
+  "crafting": {
+    "crafting": [
+      2,
+      4,
+      3,
+      5,
+      null
+    ],
+    "refining": [
+      3,
+      null,
+      5,
+      4,
+      null
+    ],
+    "taxes": [
+      "2,00",
+      "6,00",
+      "1,41",
+      "1,40"
+    ]
+  }
+}

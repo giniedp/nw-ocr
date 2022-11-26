@@ -1,0 +1,32 @@
+{
+  "settlement": {
+    "name": "CutlassKeys",
+    "tier": "city",
+    "upgrades": 19
+  },
+  "encounter": null,
+  "governedBy": "Batcave",
+  "controledBy": "Syndicate",
+  "crafting": {
+    "crafting": [
+      5,
+      5,
+      5,
+      2,
+      4
+    ],
+    "refining": [
+      5,
+      5,
+      5,
+      5,
+      null
+    ],
+    "taxes": [
+      "2.00",
+      "6.10",
+      "1.40",
+      "1.40"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "settlement": {
+    "name": "Mourningdale",
+    "tier": "village",
+    "upgrades": 9
+  },
+  "encounter": null,
+  "governedBy": "-G- Pyrolyse",
+  "controledBy": "Das Biindnis",
+  "crafting": {
+    "crafting": [
+      5,
+      2,
+      3,
+      2,
+      null
+    ],
+    "refining": [
+      8,
+      4,
+      5,
+      4,
+      null
+    ],
+    "taxes": [
+      "2,00",
+      "2.50",
+      "1,00",
+      "1,00"
+    ]
+  }
+}

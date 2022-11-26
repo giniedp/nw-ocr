@@ -1,0 +1,35 @@
+{
+  "settlement": {
+    "name": "FirstLight",
+    "tier": "town",
+    "upgrades": 12
+  },
+  "encounter": {
+    "type": "war",
+    "info": "(2) My Storage"
+  },
+  "governedBy": null,
+  "controledBy": null,
+  "crafting": {
+    "crafting": [
+      2,
+      4,
+      2,
+      5,
+      5
+    ],
+    "refining": [
+      4,
+      4,
+      5,
+      3,
+      null
+    ],
+    "taxes": [
+      "2.00",
+      "4.90",
+      "1.80",
+      "1.30"
+    ]
+  }
+}

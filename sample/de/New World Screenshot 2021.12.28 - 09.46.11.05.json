@@ -1,0 +1,11 @@
+{
+  "settlement": {
+    "name": null,
+    "tier": null,
+    "upgrades": null
+  },
+  "encounter": null,
+  "governedBy": null,
+  "controledBy": null,
+  "crafting": null
+}

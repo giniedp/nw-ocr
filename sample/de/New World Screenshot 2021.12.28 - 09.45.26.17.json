@@ -1,0 +1,32 @@
+{
+  "settlement": {
+    "name": "Windsward",
+    "tier": "city",
+    "upgrades": 19
+  },
+  "encounter": null,
+  "governedBy": null,
+  "controledBy": null,
+  "crafting": {
+    "crafting": [
+      5,
+      2,
+      5,
+      2,
+      5
+    ],
+    "refining": [
+      6,
+      5,
+      5,
+      null,
+      null
+    ],
+    "taxes": [
+      "2,00",
+      "6.50",
+      "1,50",
+      "1,50"
+    ]
+  }
+}

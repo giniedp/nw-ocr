@@ -1,0 +1,32 @@
+{
+  "settlement": {
+    "name": "Reekwater",
+    "tier": "village",
+    "upgrades": 9
+  },
+  "encounter": null,
+  "governedBy": null,
+  "controledBy": "Das Syndikat",
+  "crafting": {
+    "crafting": [
+      5,
+      2,
+      5,
+      2,
+      2
+    ],
+    "refining": [
+      null,
+      4,
+      5,
+      3,
+      3
+    ],
+    "taxes": [
+      "2,00",
+      "4.98",
+      "1,48",
+      "1,48"
+    ]
+  }
+}

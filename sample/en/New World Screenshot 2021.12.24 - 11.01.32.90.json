@@ -1,0 +1,32 @@
+{
+  "settlement": {
+    "name": "MonarchsBluffs",
+    "tier": "town",
+    "upgrades": 13
+  },
+  "encounter": null,
+  "governedBy": "Mytins",
+  "controledBy": "Syndicate",
+  "crafting": {
+    "crafting": [
+      2,
+      5,
+      3,
+      4,
+      3
+    ],
+    "refining": [
+      3,
+      5,
+      5,
+      4,
+      null
+    ],
+    "taxes": [
+      "2.00",
+      "6.00",
+      null,
+      "1.40"
+    ]
+  }
+}

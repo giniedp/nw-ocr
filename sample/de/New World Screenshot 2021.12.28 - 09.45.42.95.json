@@ -1,0 +1,31 @@
+{
+  "settlement": {
+    "name": "Everfall",
+    "upgrades": 18
+  },
+  "encounter": null,
+  "governedBy": "Commission",
+  "controledBy": "Das Biindnis",
+  "crafting": {
+    "crafting": [
+      5,
+      null,
+      2,
+      4,
+      5
+    ],
+    "refining": [
+      4,
+      null,
+      5,
+      null,
+      5
+    ],
+    "taxes": [
+      "2,00",
+      "6.50",
+      "1,50",
+      "1,50"
+    ]
+  }
+}

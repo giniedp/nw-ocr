@@ -1,0 +1,32 @@
+{
+  "settlement": {
+    "name": "Brightwood",
+    "tier": "village",
+    "upgrades": 8
+  },
+  "encounter": null,
+  "governedBy": "3} Porta Temporis",
+  "controledBy": "Syndicate",
+  "crafting": {
+    "crafting": [
+      5,
+      2,
+      2,
+      3,
+      4
+    ],
+    "refining": [
+      3,
+      5,
+      5,
+      3,
+      null
+    ],
+    "taxes": [
+      "2.00",
+      "6.50",
+      "1.40",
+      "1.40"
+    ]
+  }
+}

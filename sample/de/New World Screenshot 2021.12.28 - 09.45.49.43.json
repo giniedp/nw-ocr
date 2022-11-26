@@ -1,0 +1,32 @@
+{
+  "settlement": {
+    "name": "Brightwood",
+    "tier": "village",
+    "upgrades": 9
+  },
+  "encounter": null,
+  "governedBy": null,
+  "controledBy": "Das Syndikat",
+  "crafting": {
+    "crafting": [
+      5,
+      2,
+      2,
+      2,
+      5
+    ],
+    "refining": [
+      8,
+      3,
+      null,
+      4,
+      null
+    ],
+    "taxes": [
+      "2,00",
+      "6.50",
+      "1,48",
+      "1,48"
+    ]
+  }
+}

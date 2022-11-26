@@ -1,0 +1,32 @@
+{
+  "settlement": {
+    "name": null,
+    "tier": null,
+    "upgrades": null
+  },
+  "encounter": null,
+  "governedBy": null,
+  "controledBy": null,
+  "crafting": {
+    "crafting": [
+      5,
+      4,
+      5,
+      5,
+      4
+    ],
+    "refining": [
+      6,
+      5,
+      4,
+      null,
+      null
+    ],
+    "taxes": [
+      "2,00",
+      "6.10",
+      "1,50",
+      "1,48"
+    ]
+  }
+}
